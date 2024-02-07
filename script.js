@@ -20,5 +20,3 @@ if (randomNum != 3 && randomNum != 5) {
 if (randomNum == 2 || randomNum == 4) {
   console.log("Equal to 2 OR equal to 4");
 }
-
-// BONUS
